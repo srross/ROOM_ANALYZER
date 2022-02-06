@@ -1,0 +1,15 @@
+C:\GCBootcamp\GCBC_Labs\ROOM_CALCULATOR\bin\Debug\net5.0\ROOM_CALCULATOR.exe
+C:\GCBootcamp\GCBC_Labs\ROOM_CALCULATOR\bin\Debug\net5.0\ROOM_CALCULATOR.deps.json
+C:\GCBootcamp\GCBC_Labs\ROOM_CALCULATOR\bin\Debug\net5.0\ROOM_CALCULATOR.runtimeconfig.json
+C:\GCBootcamp\GCBC_Labs\ROOM_CALCULATOR\bin\Debug\net5.0\ROOM_CALCULATOR.runtimeconfig.dev.json
+C:\GCBootcamp\GCBC_Labs\ROOM_CALCULATOR\bin\Debug\net5.0\ROOM_CALCULATOR.dll
+C:\GCBootcamp\GCBC_Labs\ROOM_CALCULATOR\bin\Debug\net5.0\ref\ROOM_CALCULATOR.dll
+C:\GCBootcamp\GCBC_Labs\ROOM_CALCULATOR\bin\Debug\net5.0\ROOM_CALCULATOR.pdb
+C:\GCBootcamp\GCBC_Labs\ROOM_CALCULATOR\obj\Debug\net5.0\ROOM_CALCULATOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\GCBootcamp\GCBC_Labs\ROOM_CALCULATOR\obj\Debug\net5.0\ROOM_CALCULATOR.AssemblyInfoInputs.cache
+C:\GCBootcamp\GCBC_Labs\ROOM_CALCULATOR\obj\Debug\net5.0\ROOM_CALCULATOR.AssemblyInfo.cs
+C:\GCBootcamp\GCBC_Labs\ROOM_CALCULATOR\obj\Debug\net5.0\ROOM_CALCULATOR.csproj.CoreCompileInputs.cache
+C:\GCBootcamp\GCBC_Labs\ROOM_CALCULATOR\obj\Debug\net5.0\ROOM_CALCULATOR.dll
+C:\GCBootcamp\GCBC_Labs\ROOM_CALCULATOR\obj\Debug\net5.0\ref\ROOM_CALCULATOR.dll
+C:\GCBootcamp\GCBC_Labs\ROOM_CALCULATOR\obj\Debug\net5.0\ROOM_CALCULATOR.pdb
+C:\GCBootcamp\GCBC_Labs\ROOM_CALCULATOR\obj\Debug\net5.0\ROOM_CALCULATOR.genruntimeconfig.cache
